@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\nth\desktop\do annn version4\do annn version4\do an\validate.h(294): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nth\desktop\do annn version4\do annn version4\do an\validate.h(372): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nth\desktop\do annn version4\do annn version4\do an\validate.h(621): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nth\desktop\do annn version4\do annn version4\do an\display.h(58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nth\desktop\do annn version4\do annn version4\do an\passenger.h(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\nth\desktop\do annn version4\do annn version4\do an\passenger.h(169): warning C4018: '>': signed/unsigned mismatch
+c:\users\nth\desktop\do annn version4\do annn version4\do an\passenger.h(235): warning C4101: 'key': unreferenced local variable
+c:\users\nth\desktop\do annn version4\do annn version4\do an\flight.h(611): warning C4101: 'key': unreferenced local variable
+c:\users\nth\desktop\do annn version4\do annn version4\do an\airplane.h(214): warning C4101: 'key': unreferenced local variable
+c:\users\nth\desktop\do annn version4\do annn version4\do an\process.h(350): warning C4101: 'b': unreferenced local variable
+c:\users\nth\desktop\do annn version4\do annn version4\do an\passenger.h(159): warning C4715: 'IsDeletedPassenger': not all control paths return a value
+c:\users\nth\desktop\do annn version4\do annn version4\do an\passenger.h(322): warning C4715: 'ChoosePassenger': not all control paths return a value
+c:\users\nth\desktop\do annn version4\do annn version4\do an\flight.h(204): warning C4715: 'IsDeletedTail': not all control paths return a value
+c:\users\nth\desktop\do annn version4\do annn version4\do an\flight.h(698): warning C4715: 'ChooseFlight': not all control paths return a value
+c:\users\nth\desktop\do annn version4\do annn version4\do an\airplane.h(281): warning C4715: 'ChooseAirplane': not all control paths return a value
+  Do An.vcxproj -> C:\Users\NTH\Desktop\Do annn version4\Do annn version4\x64\Debug\Do An.exe
+  Do An.vcxproj -> C:\Users\NTH\Desktop\Do annn version4\Do annn version4\x64\Debug\Do An.pdb (Partial PDB)
