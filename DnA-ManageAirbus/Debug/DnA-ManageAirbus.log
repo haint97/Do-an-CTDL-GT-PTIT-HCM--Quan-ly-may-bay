@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Passenger.h(152,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Passenger.h(153,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Passenger.h(230,6): warning C4101: 'key': unreferenced local variable
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Airplane.h(212,6): warning C4101: 'key': unreferenced local variable
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Process.h(365,7): warning C4101: 'b': unreferenced local variable
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Passenger.h(143): warning C4715: 'IsDeletedPassenger': not all control paths return a value
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Passenger.h(321): warning C4715: 'ChoosePassenger': not all control paths return a value
+C:\Users\HaiNT\Downloads\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay-master\Do An (1)\Flight.h(212): warning C4715: 'IsDeletedTail': not all control paths return a value
+  DnA-ManageAirbus.vcxproj -> C:\Users\HaiNT\Desktop\Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay\DnA-ManageAirbus\Debug\DnA-ManageAirbus.exe
